@@ -16,7 +16,7 @@ self.__precacheManifest = [
     "url": "/cs410final-project-front-end/static/css/main.28f6dd9f.chunk.css"
   },
   {
-    "revision": "4fb8c9bddeb98579f845f35882a40288",
+    "revision": "bbaa1d839c7e35e074c628c6d0221dc3",
     "url": "/cs410final-project-front-end/index.html"
   }
 ];
